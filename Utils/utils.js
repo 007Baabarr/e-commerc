@@ -32,6 +32,7 @@ import { getAuth ,
       appId: "1:347554215628:web:bfed829dd2b60131c6f469",
       measurementId: "G-T890F6C7RD"
     };
+  
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
